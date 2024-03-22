@@ -1,6 +1,6 @@
 # KEOPBackend
 
-Implementation of Keep Everything at One Place project using MERN stack
+Implementation of the Keep Everything at One Place project Backend using ASP.NET WEB API 
 
 This is the drive link for the video recording of the manager-level conference 
 
