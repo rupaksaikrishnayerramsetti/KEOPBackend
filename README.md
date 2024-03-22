@@ -1,4 +1,4 @@
-# KEOPBackend
+# KEOP Backend using ASP.NET WEB API
 
 Implementation of the Keep Everything at One Place project Backend using ASP.NET WEB API 
 
